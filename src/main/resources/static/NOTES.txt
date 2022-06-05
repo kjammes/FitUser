@@ -1,0 +1,4 @@
+In my app
+
+ - User is named as FitUser to avoid confusion
+ - Username is not used, instead an email field is used.
