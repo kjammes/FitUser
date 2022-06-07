@@ -16,7 +16,6 @@ import java.util.List;
 @Transactional
 @Slf4j
 public class FitUserServiceImp implements FitUserService{
-
     private final UserRepo userRepo;
     private final RoleRepo roleRepo;
 
