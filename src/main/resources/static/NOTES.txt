@@ -2,3 +2,6 @@ In my app
 
  - User is named as FitUser to avoid confusion
  - Username is not used, instead an email field is used.
+ - Need to do some research and set secret properly using ENV variables or something for secret of JWT token
+ - Refactor code and use username instead of email for authentication
+ - Decide all the entities and their relationships for project.

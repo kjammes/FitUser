@@ -11,5 +11,7 @@ public interface FitUserService {
     void addRoleToUser(String email, String roleName);
     FitUser getUser(String email);
 
+    FitUser getUserByName(String name);
+
     List<FitUser> getFitUsers();
 }
